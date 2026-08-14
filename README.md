@@ -3464,7 +3464,9 @@ Arxiv, 2023.
 - <a name="Cocheteux24cvprw"></a>Cocheteux, M., Moreau, J., Davoine, F.,  
 *[MULi-Ev: Maintaining Unperturbed LiDAR-Event Calibration](https://openaccess.thecvf.com/content/CVPR2024W/WAD/html/Cocheteux_MULi-Ev_Maintaining_Unperturbed_LiDAR-Event_Calibration_CVPRW_2024_paper.html)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2024.
-
+- <a name="Ryu26cvpr"></a>Taehun Ryu, Changwoo Kang, Kyungdon Joo,  
+*[From Corners to Fiducial Tags: Revisiting Checkerboard Calibration for Event Cameras](https://openaccess.thecvf.com/content/CVPR2026/papers/Ryu_From_Corners_to_Fiducial_Tags_Revisiting_Checkerboard_Calibration_for_Event_CVPR_2026_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2026. [Suppl.](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Ryu_From_Corners_to_CVPR_2026_supplemental.pdf), [Code](https://github.com/taehun-ryu/corner2tag)
 
 <a name="software-algorithms"></a>
 ## Algorithms
